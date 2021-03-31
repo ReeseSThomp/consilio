@@ -1,0 +1,1 @@
+export const initialCommitMessage = "Hello World, from Consilio."
